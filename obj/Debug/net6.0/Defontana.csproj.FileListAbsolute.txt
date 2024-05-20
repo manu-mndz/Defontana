@@ -1,0 +1,15 @@
+C:\Users\manue\source\repos\Defontana\bin\Debug\net6.0\Defontana.exe
+C:\Users\manue\source\repos\Defontana\bin\Debug\net6.0\Defontana.deps.json
+C:\Users\manue\source\repos\Defontana\bin\Debug\net6.0\Defontana.runtimeconfig.json
+C:\Users\manue\source\repos\Defontana\bin\Debug\net6.0\Defontana.dll
+C:\Users\manue\source\repos\Defontana\bin\Debug\net6.0\Defontana.pdb
+C:\Users\manue\source\repos\Defontana\obj\Debug\net6.0\Defontana.csproj.AssemblyReference.cache
+C:\Users\manue\source\repos\Defontana\obj\Debug\net6.0\Defontana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manue\source\repos\Defontana\obj\Debug\net6.0\Defontana.AssemblyInfoInputs.cache
+C:\Users\manue\source\repos\Defontana\obj\Debug\net6.0\Defontana.AssemblyInfo.cs
+C:\Users\manue\source\repos\Defontana\obj\Debug\net6.0\Defontana.csproj.CoreCompileInputs.cache
+C:\Users\manue\source\repos\Defontana\obj\Debug\net6.0\Defontana.dll
+C:\Users\manue\source\repos\Defontana\obj\Debug\net6.0\refint\Defontana.dll
+C:\Users\manue\source\repos\Defontana\obj\Debug\net6.0\Defontana.pdb
+C:\Users\manue\source\repos\Defontana\obj\Debug\net6.0\Defontana.genruntimeconfig.cache
+C:\Users\manue\source\repos\Defontana\obj\Debug\net6.0\ref\Defontana.dll
