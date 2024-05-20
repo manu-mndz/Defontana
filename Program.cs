@@ -38,32 +38,25 @@ public class ArbolGenealogico
         }
     }
 
-    // Crear una lista para almacenar los nodos por nivel
     List<List<NodoArbol>> nivelesNodos = new List<List<NodoArbol>>();
 
-    // Función recursiva para llenar la lista de niveles
     void CrearNiveles(NodoArbol nodo, int nivel)
     {
-        // Asegurarse de que la lista de niveles tiene suficientes listas para el nivel actual
         while (nivelesNodos.Count <= nivel)
         {
             nivelesNodos.Add(new List<NodoArbol>());
         }
 
-        // Agregar el nodo al nivel correspondiente
         nivelesNodos[nivel].Add(nodo);
 
-        // Llamar a la función recursivamente para cada hijo
         foreach (var hijo in nodo.Hijos)
         {
             CrearNiveles(hijo, nivel + 1);
         }
     }
 
-    // Llenar la lista de niveles
     CrearNiveles(raiz, 0);
 
-    // Imprimir los niveles
     for (int i = 0; i < nivelesNodos.Count; i++)
     {
         Console.WriteLine((i + 1).ToString());
